@@ -189,5 +189,13 @@
 
 </footer>
 
+<style>
+        h1{
+            color: red;
+            font-size: 120px;
+        }
+    </style>
+    <h1>hola minecraft</h1>
+
 </body>
 </html>
