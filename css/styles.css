@@ -7,3 +7,34 @@ p{font-family: "Inter", sans-serif;}
 
 #titulo{color: brown;}
 .texto{color: black;}
+/* #titulo{border: 5px black inset;
+} */
+
+/* #titulo{
+    border-color: dimgray; color
+    border-style: solid;    tipo de linea del borde
+    border-radius: 50px;    radio de la curvatura */
+
+#JUGAR{
+    background-color: green; /* Fondo */
+    border: 2px solid black; /* Borde */
+    border-radius: 50px;       /*redondeado del borde*/
+    color: white;            /* Color del texto */
+    padding: 10px 20px;      /* Espacio interno */
+}
+#masinfo{
+    background-color: green; 
+    border: 2px solid black; 
+    border-radius: 50px;      
+    color: white;           
+    padding: 10px 20px;
+}
+
+body{
+    background-image: url(./4526f87a-74ea-4b14-86fb-b330c7c0038c.png) ;
+    
+    background-size: cover;      /*es para que se adapte al ancho*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
