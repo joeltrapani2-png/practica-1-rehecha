@@ -38,3 +38,18 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+
+.opciones{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+}
+#imagen-logo{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+}
+
+
+
